@@ -1,4 +1,4 @@
-# Vue-collection
+# Vue info collection
 Collection of links and info about Vue
 
 ## Awesome Vue 3
