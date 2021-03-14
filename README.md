@@ -6,6 +6,8 @@ https://github.com/quatrochan/awesome-vue-3
 
 ## Components
 - [Equal UI – open-source Vue 3 components system for your next project based on TypeScript](https://quatrochan.github.io/Equal/)
+- [Vite - Next Generation Frontend Tooling](https://vitejs.dev/)
+- [nuxt/firebase - Firerbase integration for Nuxt](https://firebase.nuxtjs.org/)
 
 ## Books
 
