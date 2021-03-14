@@ -10,5 +10,5 @@ https://github.com/quatrochan/awesome-vue-3
 - [nuxt/firebase - Firerbase integration for Nuxt](https://firebase.nuxtjs.org/)
 
 ## Books
-
-- [Vue JS Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
+- [Vue.js 3 Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
+- [Hands-on Nuxt.js Web Development](https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698)
