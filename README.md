@@ -4,6 +4,9 @@ Collection of links and info about Vue
 ## Links
 - [Awesome Vue 3](https://github.com/quatrochan/awesome-vue-3)
 
+## Vue features
+- [Vue Class Component](https://class-component.vuejs.org/)   
+
 ## Trainings
 - [FrontendMasters: Introduction to Vue 3 - Sarah Drasner](https://frontendmasters.com/courses/vue-3/)
 
