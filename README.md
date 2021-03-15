@@ -12,6 +12,7 @@ Collection of links and info about Vue
 ## Vue directives   
 - v-if
 - v-show
+- v-on:mouseover="HandleEvent" // @mouseover, @mouseleave, @dblclick
 
 ## Trainings
 - [Udemy : Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/learn/lecture/10015304?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview)
