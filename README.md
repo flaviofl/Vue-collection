@@ -15,3 +15,6 @@ Collection of links and info about Vue
 ## Books
 - [Vue.js 3 Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
 - [Hands-on Nuxt.js Web Development](https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698)
+
+## VS Code extensions
+- ES6 String HTML
