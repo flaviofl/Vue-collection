@@ -1,8 +1,8 @@
 # Vue info collection
 Collection of links and info about Vue
 
-## Awesome Vue 3
-https://github.com/quatrochan/awesome-vue-3
+## Links
+- [Awesome Vue 3](https://github.com/quatrochan/awesome-vue-3)
 
 ## Trainings
 - [FrontendMasters: Introduction to Vue 3 - Sarah Drasner](https://frontendmasters.com/courses/vue-3/)
