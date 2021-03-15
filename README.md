@@ -7,7 +7,11 @@ Collection of links and info about Vue
 - [Awesome Vue 3](https://github.com/quatrochan/awesome-vue-3)
 
 ## Vue features
-- [Vue Class Component](https://class-component.vuejs.org/)   
+- [Vue Class Component](https://class-component.vuejs.org/)  
+
+## Vue directives   
+- v-if
+- v-show
 
 ## Trainings
 - [Udemy : Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/learn/lecture/10015304?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview)
