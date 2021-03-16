@@ -6,6 +6,7 @@ Collection of links and info about Vue
 - [scrimba - Vue Documentation Guide](https://scrimba.com/learn/vuedocs)
 - [Awesome Vue 3](https://github.com/quatrochan/awesome-vue-3)
 - [How to write a Vue.js app completely in TypeScript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/)
+- [Getting Started with TypeScript + Vue.js](https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs/)
 
 ## Vue features
 - [Vue Class Component](https://class-component.vuejs.org/)  
