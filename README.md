@@ -36,3 +36,4 @@ v-for="book in books"
 
 ## VS Code extensions
 - ES6 String HTML
+- Vetur
