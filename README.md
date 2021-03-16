@@ -19,7 +19,7 @@ v-for="book in books"
 {{ book.title }}
 {{ book.author }}
 ```
-- v-bind:
+- v-bind:  or can use the short just adding : beforer the property. e.g.  :href= is the same as v-bind:hrerf=
 
 ## Trainings
 - [Udemy : Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/learn/lecture/10015304?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview)
