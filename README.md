@@ -16,8 +16,9 @@ Collection of links and info about Vue
   - [Vue 3 - specific syntax](https://github.com/typescript-cheatsheets/vue/blob/master/vue-3.md)
   - [Vue Class Components](https://github.com/typescript-cheatsheets/vue/blob/master/class-components.md)
 
-## Vue features
+## Vue by topics
 - [Vue Class Component](https://class-component.vuejs.org/)  
+- [Navigation Guards](https://router.vuejs.org/guide/advanced/navigation-guards.html)
 
 ## Vue directives   
 - v-if
