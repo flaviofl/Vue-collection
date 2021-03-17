@@ -10,6 +10,9 @@ Collection of links and info about Vue
 - [Dependency Injection in Vue.js App with TypeScript](https://purple.telstra.com.au/blog/dependency-injection-in-vuejs-app-with-typescript)
 - [TypeScript Vue Starter](https://github.com/microsoft/TypeScript-Vue-Starter)
 
+## Cheat cheets
+- [Vue 3 - Composition API - Cheat sheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf)
+
 ## Vue features
 - [Vue Class Component](https://class-component.vuejs.org/)  
 
