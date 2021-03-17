@@ -37,8 +37,8 @@ v-for="book in books"
 - [Udemy : Build Web Apps with Vue JS 3 & Firebase](https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/learn/lecture/10015304?components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon#overview)
 - [FrontendMasters: Introduction to Vue 3 - Sarah Drasner](https://frontendmasters.com/courses/vue-3/)
 
-## Hands on
-- [Building a Real-World Web App With Vue.js and Firebase](https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase)
+  ## Hands on
+  - [Building a Real-World Web App With Vue.js and Firebase](https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase)
 
 ## Components
 - [Equal UI – open-source Vue 3 components system for your next project based on TypeScript](https://quatrochan.github.io/Equal/)
