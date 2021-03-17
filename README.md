@@ -12,6 +12,9 @@ Collection of links and info about Vue
 
 ## Cheat cheets
 - [Vue 3 - Composition API - Cheat sheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf)
+- [Vue+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/vue)
+  - [Vue 3 - specific syntax](https://github.com/typescript-cheatsheets/vue/blob/master/vue-3.md)
+  - [Vue Class Components](https://github.com/typescript-cheatsheets/vue/blob/master/class-components.md)
 
 ## Vue features
 - [Vue Class Component](https://class-component.vuejs.org/)  
