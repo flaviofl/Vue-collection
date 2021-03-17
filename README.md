@@ -50,3 +50,6 @@ v-for="book in books"
 - ES6 String HTML
 - Vetur
 - [Snippet Generator for VS Code, Sublime and Atom](https://snippet-generator.app/)
+
+## Resources
+[My JSON Server - Fake Online REST server for teams](https://my-json-server.typicode.com/)
