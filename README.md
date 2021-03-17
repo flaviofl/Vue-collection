@@ -3,6 +3,7 @@ Collection of links and info about Vue
 
 ## Links
 - [Vue.js](https://vuejs.org/)
+- [Vue CLI](https://cli.vuejs.org/)
 - [scrimba - Vue Documentation Guide](https://scrimba.com/learn/vuedocs)
 - [Awesome Vue 3](https://github.com/quatrochan/awesome-vue-3)
 - [How to write a Vue.js app completely in TypeScript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/)
