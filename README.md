@@ -49,3 +49,4 @@ v-for="book in books"
 ## VS Code extensions
 - ES6 String HTML
 - Vetur
+- [Snippet Generator for VS Code, Sublime and Atom](https://snippet-generator.app/)
