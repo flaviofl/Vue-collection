@@ -13,6 +13,7 @@ Collection of links and info about Vue
 - [TypeScript Vue Starter](https://github.com/microsoft/TypeScript-Vue-Starter)
 - [Vue - Modes and Environment Variables](https://cli.vuejs.org/guide/mode-and-env.html#modes)
   - [Configuring your local project with environment variables](https://dev.to/jesusrmendez/how-to-deploy-vue-js-firebase-1iic)
+- [Vue 3 and Firebase - Build and deploy a CRUD Application with Vue.js and Firebase](https://www.youtube.com/watch?v=Htt8AKeF1Kw)
 
 ## Cheat cheets
 - [Vue 3 - Composition API - Cheat sheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf)
