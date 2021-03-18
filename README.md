@@ -11,6 +11,7 @@ Collection of links and info about Vue
 - [Getting Started with TypeScript + Vue.js](https://www.vuemastery.com/blog/getting-started-with-typescript-and-vuejs/)
 - [Dependency Injection in Vue.js App with TypeScript](https://purple.telstra.com.au/blog/dependency-injection-in-vuejs-app-with-typescript)
 - [TypeScript Vue Starter](https://github.com/microsoft/TypeScript-Vue-Starter)
+- [Vue - Modes and Environment Variables](https://cli.vuejs.org/guide/mode-and-env.html#modes)
 
 ## Cheat cheets
 - [Vue 3 - Composition API - Cheat sheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf)
