@@ -50,6 +50,11 @@ v-for="book in books"
 - [Vite - Next Generation Frontend Tooling](https://vitejs.dev/)
 - [nuxt/firebase - Firerbase integration for Nuxt](https://firebase.nuxtjs.org/)
 
+## Frameworks
+- [Quasar Framework](https://quasar.dev)
+  - [How use .env files in Quasar](https://dev.to/jotcomponents/how-use-env-files-in-quasar-1k55)
+- Vuetify
+
 ## Books
 - [Vue.js 3 Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
 - [Hands-on Nuxt.js Web Development](https://www.packtpub.com/product/hands-on-nuxt-js-web-development/9781789952698)
