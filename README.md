@@ -53,7 +53,7 @@ v-for="book in books"
 ## Frameworks
 - [Quasar Framework](https://quasar.dev)
   - [How use .env files in Quasar](https://dev.to/jotcomponents/how-use-env-files-in-quasar-1k55)
-- Vuetify
+- [Vuetify - A Material Design Framework](https://vuetifyjs.com/en/)
 
 ## Books
 - [Vue.js 3 Cookbook](https://www.packtpub.com/product/vue-js-3-cookbook/9781838826222)
